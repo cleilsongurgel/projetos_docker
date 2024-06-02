@@ -7,6 +7,6 @@ mkdir dados
 cd dados
 
 
-wget https://github.com/cleilsongurgel/projetos_docker/blob/master/docker-compose.yml
+wget https://raw.githubusercontent.com/cleilsongurgel/projetos_docker/master/docker-compose.yml?token=GHSAT0AAAAAACTC7EQHKNRXOYOHEKZ7T55YZS4OFQA
 
 sudo docker-compose up -d
